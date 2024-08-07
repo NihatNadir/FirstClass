@@ -1,6 +1,6 @@
 # FirstClass
 
-# Bu pratikte Öğrencilerin ve öğretmenlerin bilgilerini yönetmek oluşturduğum program içerisinde kullandığım yöntemler ve metotlar :
+# Bu pratikte Öğrencilerin ve öğretmenlerin bilgilerini yönetmek oluşturduğum program içerisinde kullandığım yöntemler ve metotlar 
 - Bu sınıfın özellikleri içerisinde bu bilgiler yer alıyor : Ad, Soyad, Doğum Tarihi.
 - Person adında bir sınıf oluşturdum ve özellikleri içeren private ve public (get/set) oluşturdum. 
 - Program içerisinde hazır öğrenci ve hazır öğretmen nesneleri bulunuyor.
