@@ -1,4 +1,4 @@
-# FirstClass
+# FirstClass TR || ENG
 
 # Bu pratikte Öğrencilerin ve öğretmenlerin bilgilerini yönetmek oluşturduğum program içerisinde kullandığım yöntemler ve metotlar 
 - Bu sınıfın özellikleri içerisinde bu bilgiler yer alıyor : Ad, Soyad, Doğum Tarihi.
